@@ -20,4 +20,5 @@ git clone https://github.com/prateek147/DVIA-v2.git
 git clone https://github.com/Ostorlab/ostorlab_insecure_ios_app.git
 git clone https://github.com/Matejkob/un-securedApp.git
 git clone https://github.com/overflowwebdesigns/lock-screen-app.git
+git clone https://github.com/ios-control/ios-deploy
 ```
