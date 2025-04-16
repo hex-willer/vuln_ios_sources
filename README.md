@@ -22,5 +22,5 @@ https://github.com/Ostorlab/ostorlab_insecure_ios_app.git
 https://github.com/Matejkob/un-securedApp.git
 https://github.com/overflowwebdesigns/lock-screen-app.git
 https://github.com/payatu/iBugBazaar.git
-https://github.com/lucideus-repo/UnSAFE_Bank 
+https://github.com/lucideus-repo/UnSAFE_Bank.git
 ```
