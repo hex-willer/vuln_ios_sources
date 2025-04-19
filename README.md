@@ -24,4 +24,5 @@ https://github.com/overflowwebdesigns/lock-screen-app.git
 https://github.com/payatu/iBugBazaar.git
 https://github.com/lucideus-repo/UnSAFE_Bank.git
 https://github.com/securing/IOSSecuritySuite.git
+https://github.com/opa334/Dopamine.git
 ```
