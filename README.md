@@ -22,7 +22,9 @@ https://github.com/Ostorlab/ostorlab_insecure_ios_app.git
 https://github.com/Matejkob/un-securedApp.git
 https://github.com/payatu/iBugBazaar.git
 https://github.com/lucideus-repo/UnSAFE_Bank.git
-https://github.com/securing/IOSSecuritySuite.git
-https://github.com/opa334/Dopamine.git
+https://github.com/securing/IOSSecuritySuite.git --> Security Scanner
+https://github.com/opa334/Dopamine.git --> Jailbreak
 https://github.com/authenticationfailure/WheresMyBrowser.iOS.git --> Webview
+https://github.com/NVISOsecurity/disable-flutter-tls-verification.git --> TLS
+
 ```
