@@ -1,4 +1,9 @@
 # vuln_ios_sources
+This read me is a collection of repositories that are mentioned in MASVS for testing.
+
+Please give executable permissions to run the script :)
+
+The single script will download all the repos and segregate into its categories
 
 # Objective-C
 ```
@@ -11,7 +16,6 @@ https://github.com/prateek147/localDataStorageDemo.git
 https://github.com/SecurityCompass/iPhoneLabs.git
 https://github.com/ios-control/ios-deploy.git
 ```
-
 # Swift
 ```
 https://github.com/prateek147/DVIA.git
@@ -28,3 +32,4 @@ https://github.com/authenticationfailure/WheresMyBrowser.iOS.git --> Webview
 https://github.com/NVISOsecurity/disable-flutter-tls-verification.git --> TLS
 
 ```
+# Frameworks
